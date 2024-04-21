@@ -1,0 +1,5 @@
+openai
+base64
+anthropic
+flask
+dotenv
