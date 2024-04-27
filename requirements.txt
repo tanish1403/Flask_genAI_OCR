@@ -1,5 +1,5 @@
 anthropic==0.25.1
-flask==2.2.2
+flask==3.0.2
 openai==1.17.1
 python-dotenv==1.0.1
 werkzeug==3.0.2
