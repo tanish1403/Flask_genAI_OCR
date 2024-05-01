@@ -37,7 +37,7 @@ def process_image():
     # write_to_markdown(claude_response, "claude_output.md")
 
     # Return responses as JSON
-    return jsonify({'openai_response': openai_response})
+    return openai_response
 
 def get_openai_response(api_key, image_bytes):
     headers = {
